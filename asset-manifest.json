@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cotizadorcripto/static/css/main.888d89f6.chunk.css",
+    "main.js": "/cotizadorcripto/static/js/main.2a4b5ecc.chunk.js",
+    "main.js.map": "/cotizadorcripto/static/js/main.2a4b5ecc.chunk.js.map",
+    "runtime-main.js": "/cotizadorcripto/static/js/runtime-main.87c232e7.js",
+    "runtime-main.js.map": "/cotizadorcripto/static/js/runtime-main.87c232e7.js.map",
+    "static/js/2.004c8eee.chunk.js": "/cotizadorcripto/static/js/2.004c8eee.chunk.js",
+    "static/js/2.004c8eee.chunk.js.map": "/cotizadorcripto/static/js/2.004c8eee.chunk.js.map",
+    "static/js/3.83b3f6b9.chunk.js": "/cotizadorcripto/static/js/3.83b3f6b9.chunk.js",
+    "static/js/3.83b3f6b9.chunk.js.map": "/cotizadorcripto/static/js/3.83b3f6b9.chunk.js.map",
+    "index.html": "/cotizadorcripto/index.html",
+    "static/css/main.888d89f6.chunk.css.map": "/cotizadorcripto/static/css/main.888d89f6.chunk.css.map",
+    "static/js/2.004c8eee.chunk.js.LICENSE.txt": "/cotizadorcripto/static/js/2.004c8eee.chunk.js.LICENSE.txt",
+    "static/media/criptomonedas.e012a136.png": "/cotizadorcripto/static/media/criptomonedas.e012a136.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87c232e7.js",
+    "static/js/2.004c8eee.chunk.js",
+    "static/css/main.888d89f6.chunk.css",
+    "static/js/main.2a4b5ecc.chunk.js"
+  ]
+}
